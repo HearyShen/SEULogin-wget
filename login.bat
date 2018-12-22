@@ -1,0 +1,1 @@
+wget --post-data="username=<username>&password=<base64encodedpassword>&enablemacauth=0" http://w.seu.edu.cn/index.php/index/login --delete-after
