@@ -1,7 +1,9 @@
 # SEULogin-wget
 a BAT script to login SEU webgate
 
+**Deprecated**
 
+See [SEULogin](https://github.com/HearyShen/SEULogin) for latest solution.
 
 ## Setup Guide
 
